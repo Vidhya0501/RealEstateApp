@@ -9,7 +9,10 @@ const authController = require("./controllers/authController.js");
 const propertyController = require("./controllers/propertyController.js");
 
 dotenv.config();
-app.use(cors());
+app.use(cors({
+  origin: "https://real-estate-management-vidhya.netlify.app/",
+  credentials: true,
+}));
 app.use(express.json());
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
