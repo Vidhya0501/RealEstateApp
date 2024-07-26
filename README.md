@@ -1,8 +1,8 @@
 Real Estate Management Website using MERN
 
-![image](https://github.com/user-attachments/assets/278f828a-df18-4708-a2dc-42b72888a9f7)
+![image](https://github.com/user-attachments/assets/7f1defd7-9132-40ba-a36a-6d86862cc54b)
 
-![image](https://github.com/user-attachments/assets/1d4e609b-84a5-4390-a1e2-f6d019e25b85)
+![image](https://github.com/user-attachments/assets/f143ae87-bf3b-4cab-8f40-b42fb7fb8240)
 
 ![image](https://github.com/user-attachments/assets/f4be44d8-fbcb-4b85-ae40-cbe2b70148c3)
 
