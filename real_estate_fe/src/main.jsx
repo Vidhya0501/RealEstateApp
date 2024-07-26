@@ -6,7 +6,7 @@ import { AuthProvider } from "./context/AuthContext";
 import PropertyProvider from "./context/PropertyContext";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-export const server = "http://localhost:5000";
+export const server = "https://realestateapp-1.onrender.com";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
