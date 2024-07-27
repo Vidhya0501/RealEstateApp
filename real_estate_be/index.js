@@ -11,6 +11,8 @@ const propertyController = require("./controllers/propertyController.js");
 dotenv.config();
 app.use(cors({
   origin: "https://real-estate-management-vidhya.netlify.app",
+   methods: 'GET,POST,PUT,DELETE',
+  allowedHeaders: 'Content-Type,Authorization',
   credentials: true,
 }));
 app.use(express.json());
