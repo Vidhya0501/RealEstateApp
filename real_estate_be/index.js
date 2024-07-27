@@ -10,7 +10,7 @@ const propertyController = require("./controllers/propertyController.js");
 
 dotenv.config();
 app.use(cors({
-  origin: "https://real-estate-management-vidhya.netlify.app/",
+  origin: "https://real-estate-management-vidhya.netlify.app",
   credentials: true,
 }));
 app.use(express.json());
